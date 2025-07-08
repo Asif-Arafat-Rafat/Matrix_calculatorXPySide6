@@ -16,5 +16,3 @@ class InputBox(QWidget):
         layout.addWidget(self.test)
         layout.addWidget(button)
         self.setLayout(layout)
-
-
